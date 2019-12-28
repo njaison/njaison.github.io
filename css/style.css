@@ -3,7 +3,7 @@ p{
     font-family: 'Montserrat', sans-serif;
     text-shadow: 2px 2px red;
     line-height: 250px;
-    color: #71d1ff;
+    color: #ff33f3;
     font-size: 75px;
 }
 
@@ -19,5 +19,5 @@ p{
 }
 
 body{
-    background: #FFFF6D;
+    background: #ffff6d;
 }
