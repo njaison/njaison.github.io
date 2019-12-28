@@ -1,8 +1,9 @@
 p{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    color: #4750ff;
-    font-size: 50px;
+    text-shadow: 2px 2px red;
+    color: #71d1ff;
+    font-size: 75px;
 }
 
 body{
